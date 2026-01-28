@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raiyan Hossain Araf</h1>
-<h3 align="center">A passionate CSE student from Bangladesh</h3>
+<h3 align="center">A passionate CS undergrad student from Bangladesh</h3>
 
 - 🔭 I’m currently working on **a python project**
 
