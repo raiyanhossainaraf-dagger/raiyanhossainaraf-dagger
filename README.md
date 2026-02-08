@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raiyan Hossain Araf</h1>
 <h3 align="center">A passionate CS undergrad student from Bangladesh</h3>
 
-- 🔭 I’m currently working on **a python project**
+- 🔭 I’m currently working on **a ML-project**
 
-- 🌱 I’m currently learning **pandas, Matplotlib**
+- 🌱 I’m currently learning **Scikit-learn**
 
 - 📫 How to reach me **raiyanhossainaraf@gmail.com**
 
